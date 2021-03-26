@@ -1,0 +1,167 @@
+﻿@model IEnumerable<StoreApp.Models.ProductModel>
+
+@{
+    ViewBag.Title = "Product List";
+}
+
+
+
+<div style="padding:20px">
+
+</div>
+<h2>Product list</h2>
+
+<div class="container " style="padding: 0px;">
+    <div class="col-8 border" style="border-color:gray; border-width:thick; margin:0px;">
+        <div class="row">
+            <label class="col-sm-2 my-auto" style=" margin:0px;">Sort by:</label>
+            <select class="col-sm-4 dropdown" style="margin-left:10px; margin-top:5px; margin-bottom:5px;" name="sort_order" id="sort_select">
+                <option value="price">Price</option>
+                <option value="popularity">Popularity</option>
+            </select>
+            <div class="col-sm-5" style="margin:0px 0px 0px 20px; padding:0px;">
+                <button type="button" class="btn btn-link " style="padding:0px" onclick="sortAsc()">ASC</button>
+                <label class="align-middle my-auto" style="padding: 0px">/</label>
+                <button type="button" class="btn btn-link" style="padding: 0px" onclick="sortDesc()">DESC</button>
+            </div>
+        </div>
+    </div>    
+</div>
+
+<div>
+    <br />
+</div>
+
+<div class="col-8 row border wrapper" style="margin:0px;">
+    
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-12 border item-row" style="margin:10px 0px 10px 0px;" data-price="@item.price" data-popularity="@item.popularity">
+
+            <div class="row">
+                <div class="col-2 media">
+                    <img class="img-fluid my-auto" style="width:50px; height:50px" src="@Html.DisplayFor(modelItem => item.imagePath)" />
+                </div>
+                <div class="col-sm-5">
+                    <div class="row">
+                        @Html.DisplayFor(modelItem => item.product_title)
+                    </div>
+                    <div class="row">
+                        @Html.DisplayFor(modelItem => item.id) : <p> @Html.Raw(item.description)</p>
+                    </div>
+                    <div class="row">
+                        <button id="@Html.DisplayFor(modelItem => item.id)" type="button" class="border btn-light my-auto" style="border-radius: 8px"
+                                onclick="navigateToDetail(@item.id)">
+                            More Details
+                        </button>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 border my-auto" style="border-color:dimgray; border-width:thick; margin-left:20px;" >
+                    <div class="row">
+                        <div class="col-4">
+                            <label>Price: </label>
+                        </div>
+                        <div class="col offset-1">
+                            <label>@Html.DisplayFor(modelItem => item.price) EUR </label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-4">
+                            <label>Availability: </label>
+                        </div>
+                        <div class="col offset-1">
+                            <label id="lb_@Html.DisplayFor(modelItem => item.id)"></label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br />
+        </div>
+    }   
+   
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var sort_by= $.cookie("sort_by");
+            var isAssending = $.cookie("isAssending");
+            if (sort_by != undefined && isAssending != undefined) {
+                sortItems(sort_by, isAssending);
+            }
+        });
+
+        $(document).ready(function () {
+            var availLabels = document.querySelectorAll('[id^="lb_"]');
+            availLabels.forEach(function (label) {
+                setAvailability(label)
+            });
+        });
+
+        function setAvailability(lbl) {
+            var lblId = { LabelId: lbl.id };
+            $.ajax({
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                data: '{lblData:'+ JSON.stringify(lblId) + '}',
+                url: "@Url.Action("GetAvailability", "Product")",
+                success: function (data) {
+                    $('#' + lbl.id).text(data);
+                },
+                error: function (result) {
+                    alert("Failed to get availability data");
+                }
+
+            });
+        }
+
+        function navigateToDetail(button) {
+
+            window.location.href = '@Url.Action("Detail", "Product")' + '?id=' + button.id;
+        }
+
+
+        function sortItems(sort_by, isAssending) {
+            var $wrapper = $('.wrapper');            
+            $wrapper.find('.item-row').sort(function (a, b) {
+                if (isAssending == true) {
+                    return $(a).data(sort_by) - $(b).data(sort_by);
+                } else {
+                    return $(b).data(sort_by) - $(a).data(sort_by);
+                }
+
+            }).appendTo($wrapper);
+
+            var sort_cookie = $.cookie("sort_by");
+            var isAssending_cookie = $.cookie("isAssending");
+            if (sort_cookie != undefined && isAssending_cookie != undefined) {
+                document.cookie = "sort_by= ; expires = Thu, 01 Jan 1970 00:00:00 GMT"
+                document.cookie = "isAssending= ; expires = Thu, 01 Jan 1970 00:00:00 GMT"
+            }
+
+            $.cookie("sort_by", sort_by);
+            $.cookie("isAssending", isAssending);
+        }
+
+
+        function sortAsc() {
+            var sort_by = $("#sort_select").val();
+            sortItems(sort_by, true);
+
+        }
+
+        function sortDesc() {
+            var sort_by = $("#sort_select").val();
+            sortItems(sort_by, false);
+
+        }
+
+
+    </script>
+}
+
+
+
+

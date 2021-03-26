@@ -1,0 +1,192 @@
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\StoreApp.dll.config
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\StoreApp.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\StoreApp.pdb
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\csc.exe
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\csc.exe.config
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\csc.rsp
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\csi.exe
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\csi.exe.config
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\csi.rsp
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\vbc.exe
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\vbc.exe.config
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\vbc.rsp
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\Antlr3.Runtime.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\Newtonsoft.Json.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.Helpers.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.Mvc.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.Optimization.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.Razor.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.WebPages.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\WebGrease.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.Helpers.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.Mvc.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.Optimization.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.Razor.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.WebPages.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\Newtonsoft.Json.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\Antlr3.Runtime.pdb
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\System.Buffers.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\System.Memory.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\DataLib.dll
+C:\Users\BJIT\source\repos\StoreApp\StoreApp\bin\DataLib.pdb
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\StoreApp.dll.config
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\StoreApp.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\StoreApp.pdb
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\csc.exe
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\csc.exe.config
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\csc.rsp
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\csi.exe
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\csi.exe.config
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\csi.rsp
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\System.Buffers.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\System.Memory.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\System.Numerics.Vectors.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\vbc.exe
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\vbc.exe.config
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\vbc.rsp
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\VBCSCompiler.exe
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\Antlr3.Runtime.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\DataLib.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\Newtonsoft.Json.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.Helpers.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.Mvc.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.Optimization.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.Razor.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.WebPages.Deployment.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.WebPages.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.WebPages.Razor.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\WebGrease.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\DataLib.pdb
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\Newtonsoft.Json.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.Helpers.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.Mvc.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.Optimization.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.Razor.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.WebPages.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.WebPages.Deployment.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\System.Web.WebPages.Razor.xml
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\bin\Antlr3.Runtime.pdb
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\obj\Debug\StoreApp.dll
+F:\Job Apply EU\ADM\Project\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\StoreApp.dll.config
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\StoreApp.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\StoreApp.pdb
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\csc.exe
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\csc.exe.config
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\csc.rsp
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\csi.exe
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\csi.exe.config
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\csi.rsp
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\System.Buffers.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\System.Memory.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\System.Numerics.Vectors.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\vbc.exe
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\vbc.exe.config
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\vbc.rsp
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\VBCSCompiler.exe
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\Antlr3.Runtime.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\DataLib.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\Newtonsoft.Json.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.Helpers.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.Mvc.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.Optimization.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.Razor.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.WebPages.Deployment.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.WebPages.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.WebPages.Razor.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\WebGrease.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\DataLib.pdb
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\Newtonsoft.Json.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.Helpers.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.Mvc.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.Optimization.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.Razor.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.WebPages.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.WebPages.Deployment.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\System.Web.WebPages.Razor.xml
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\bin\Antlr3.Runtime.pdb
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\obj\Debug\StoreApp.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\StoreApp\obj\Debug\StoreApp.pdb

@@ -1,0 +1,24 @@
+C:\Users\BJIT\source\repos\StoreApp\DataLib\bin\Debug\DataLib.dll
+C:\Users\BJIT\source\repos\StoreApp\DataLib\bin\Debug\DataLib.pdb
+C:\Users\BJIT\source\repos\StoreApp\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
+C:\Users\BJIT\source\repos\StoreApp\DataLib\obj\Debug\DataLib.Properties.Resources.resources
+C:\Users\BJIT\source\repos\StoreApp\DataLib\obj\Debug\DataLib.csproj.GenerateResource.cache
+C:\Users\BJIT\source\repos\StoreApp\DataLib\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
+C:\Users\BJIT\source\repos\StoreApp\DataLib\obj\Debug\DataLib.dll
+C:\Users\BJIT\source\repos\StoreApp\DataLib\obj\Debug\DataLib.pdb
+F:\Job Apply EU\ADM\Project\StoreApp\DataLib\bin\Debug\DataLib.dll
+F:\Job Apply EU\ADM\Project\StoreApp\DataLib\bin\Debug\DataLib.pdb
+F:\Job Apply EU\ADM\Project\StoreApp\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
+F:\Job Apply EU\ADM\Project\StoreApp\DataLib\obj\Debug\DataLib.Properties.Resources.resources
+F:\Job Apply EU\ADM\Project\StoreApp\DataLib\obj\Debug\DataLib.csproj.GenerateResource.cache
+F:\Job Apply EU\ADM\Project\StoreApp\DataLib\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
+F:\Job Apply EU\ADM\Project\StoreApp\DataLib\obj\Debug\DataLib.dll
+F:\Job Apply EU\ADM\Project\StoreApp\DataLib\obj\Debug\DataLib.pdb
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\DataLib\bin\Debug\DataLib.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\DataLib\bin\Debug\DataLib.pdb
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\DataLib\obj\Debug\DataLib.Properties.Resources.resources
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\DataLib\obj\Debug\DataLib.csproj.GenerateResource.cache
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\DataLib\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\DataLib\obj\Debug\DataLib.dll
+F:\Job Apply EU\ADM\c-test\Project\StoreApp\DataLib\obj\Debug\DataLib.pdb
